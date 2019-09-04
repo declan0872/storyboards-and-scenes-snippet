@@ -8,8 +8,8 @@ How to open a link in Safari using Swift 5
 - Swift 5
 
 <p>
-  <img align="left" style="padding: 2px;" src="images/image1.png" width="300" title="Image 1">
-  <img align="center" style="padding: 2px;" src="images/image2.png" width="300" title="Image 2">
-  <img align="right" style="padding: 2px;" src="images/image3.png" width="300" title="Image 3">
+  <img align="left" style="padding: 2px;" src="images/image1.png" width="350" title="Image 1">
+  <img align="right" style="padding: 2px;" src="images/image2.png" width="350" title="Image 2">
+  <img align="left" style="padding: 2px;" src="images/image3.png" width="350" title="Image 3">
 </p>
 
