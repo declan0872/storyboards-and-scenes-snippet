@@ -1,6 +1,6 @@
 # Storyboards and Scenes Snippet
 
-How to open a link in Safari using Swift 5
+How to using naviagtion controllers with storyboards and scenes.
 
 ## Tech Specs
 
