@@ -10,6 +10,6 @@ How to using naviagtion controllers with storyboards and scenes.
 <p>
   <img align="left" style="padding: 2px;" src="images/image1.png" width="350" title="Image 1">
   <img align="right" style="padding: 2px;" src="images/image2.png" width="350" title="Image 2">
-  <img align="left" style="padding: 2px; padding-top: 2px;" src="images/image3.png" width="350" title="Image 3">
+  <img align="left" style="padding: 2px;" src="images/image3.png" width="350" title="Image 3">
 </p>
 
