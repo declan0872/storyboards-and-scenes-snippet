@@ -1,6 +1,6 @@
 # Storyboards and Scenes Snippet
 
-How to using naviagtion controllers with storyboards and scenes.
+How to use naviagtion controllers with storyboards and scenes.
 
 ## Tech Specs
 
