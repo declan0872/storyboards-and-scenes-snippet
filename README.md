@@ -4,7 +4,7 @@ How to use naviagtion controllers with storyboards and scenes.
 
 ## Tech Specs
 
-- iOS 12.2
+- Supports iOS 12 and iOS 13
 - Swift 5
 
 <p>
